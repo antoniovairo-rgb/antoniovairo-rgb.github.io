@@ -9,5 +9,15 @@
         "71:21:DA:83:2F:72:18:76:09:13:49:42:32:7E:7D:6E:1C:3D:9E:C7:B4:DE:5A:5E:D9:E6:1D:EC:35:64:D9:81"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.korward.elite",
+      "sha256_cert_fingerprints": [
+        "84:1F:13:2A:AF:2C:D3:08:1E:45:C5:DD:3F:C3:D5:02:0A:B4:70:75:A0:09:FF:C1:ED:15:7A:E5:E1:9F:75:F4"
+      ]
+    }
   }
 ]
